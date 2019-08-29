@@ -1,0 +1,9 @@
+python manage.py runserver - Used for running the development server
+
+python manage.py startproject (project name)- For creating new proejct 
+
+python manage.py startapp (app name) - For creating a new app
+
+python manage.py migrate - For making database migrations
+
+python manage.py createsuperuser - For creating new admin user using commandline
